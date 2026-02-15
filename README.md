@@ -1,6 +1,6 @@
 # AdelineKropf
 ## My github pages
-![Minnesota Wild Team Logo](https://github.com/AdelineKropf/AdelineKropf.github.io/blob/main/Screenshot%202026-01-13%20121802.png)\
+![Minnesota Wild Team Logo](Screenshot%202026-01-13%20121802.png)\
 My favorite team is the [**Minnesota Wild**](https://www.nhl.com/wild/roster)\
 ###<ins>The Minnesota Wild Players in the Olympics are:</ins>
 1. [Matt Boldy](https://www.nhl.com/wild/player/matt-boldy-8481557): *Team USA*: **RW**
