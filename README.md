@@ -2,7 +2,7 @@
 ## My github pages
 ![Minnesota Wild Team Logo](Screenshot%202026-01-13%20121802.png)\
 My favorite team is the [**Minnesota Wild**](https://www.nhl.com/wild/roster)\
-###<ins>The Minnesota Wild Players in the Olympics are:</ins>
+### <ins>The Minnesota Wild Players in the Olympics are:</ins>
 1. [Matt Boldy](https://www.nhl.com/wild/player/matt-boldy-8481557): *Team USA*: **RW**
 2. [Brock Faber](https://www.nhl.com/wild/player/brock-faber-8482122): *Team USA*: **D**
 3. [Quinn Hughes](https://www.nhl.com/wild/player/quinn-hughes-8480800): *Team USA*: **D**
